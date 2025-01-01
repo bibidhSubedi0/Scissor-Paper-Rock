@@ -1,7 +1,5 @@
 # Rock, Paper, Scissors Simulation
 
-![Rock, Paper, Scissors Simulation](screenshot.png)
-
 ## Description
 
 This project simulates a dynamic environment where rocks, papers, and scissors interact within a 2D space. Utilizing the Raylib library, the simulation showcases basic physics principles as these elements move, collide, and transform into one another.
